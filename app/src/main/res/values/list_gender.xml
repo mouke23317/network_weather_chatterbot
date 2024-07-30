@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_gender">
+        <item>保密</item>
+        <item>男</item>
+        <item>女</item>
+        <item>生理男心理女</item>
+        <item>生理女心里男</item>
+    </string-array>
+</resources>
